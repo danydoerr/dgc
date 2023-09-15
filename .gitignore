@@ -1,0 +1,16 @@
+**/*.swp
+.DS_Store
+.snakemake/**
+beds/**
+coi.csv
+contact_dist*.pdf
+dataset.cfg
+hic_maps/**
+logs/**
+plots/**
+roi.csv
+scripts/*.pyc
+scripts/__pycache__
+scripts/save
+stats/**
+.~*#

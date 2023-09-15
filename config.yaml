@@ -1,0 +1,24 @@
+# PLEASE ADJUST THE FOLLOWING PARAMETERS --------------------------------------
+
+beds_dir: beds
+circos_bin: /prj/tools/biotools/circos/bin/circos
+cluster_types: ['single'] #['complete', 'average', 'single']
+coi_file: coi.csv
+dataset_file: dataset.cfg
+empirical_dist_samples: 10000
+juicer_tools_path: /prj/tools/biotools/juicer/scripts/juicer_tools.jar
+orig_maps_dir: hic_maps/original 
+pooled_maps_dir: hic_maps/pooled
+pooling_strategy_conditions: normavg
+pooling_strategy_replicates: mean
+roi_file: roi.csv
+significance_threshold_calc_pval: 0.05
+stats_dir: stats
+submtrx_plots_dir: plots
+top_diff_plot_topx: [50, 100]
+top_diff_plot_interation_threshold: [0.001, 0.01]
+
+
+# DON'T TOUCH UNLESS YOU KNOW WHAT YOU'RE DOING -------------------------------
+
+script_dir: scripts

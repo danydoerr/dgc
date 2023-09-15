@@ -1,0 +1,7 @@
+
+Gurobi 10.0.1 (mac64[arm], gurobi_cl) logging started Thu Sep 14 12:38:45 2023
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Academic license - for non-commercial use only - expires 2024-02-04
+Using license file /Users/ddoerr/.config/gurobi/gurobi.lic
